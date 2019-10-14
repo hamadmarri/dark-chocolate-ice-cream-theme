@@ -1,0 +1,29 @@
+{
+	"name": "dark-chocolate-ice-cream-theme",
+	"version": "0.0.1",
+	"icon": "logo.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hamadmarri/dark-chocolate-ice-cream-theme"
+	},
+	"categories": [
+		"Themes"
+	],
+	"galleryBanner": {
+		"color": "#2c2020",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": ">=0.9.0-pre.1"
+	},
+	"publisher": "HamadAlMarri",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Drak Chocolate Ice Cream",
+				"uiTheme": "vs-dark",
+				"path": "./themes/DarkChocolateIcecream-color-theme.json"
+			}
+		]
+	}
+}
