@@ -1,5 +1,5 @@
-# Chocolate Ice Cream theme (dark)
+# Dark Chocolate Ice Cream theme (dark)
 
-![ic1](./ic1.png)
+![ic1](./dcic.png)
 
 I hope you like it.
