@@ -11,7 +11,7 @@
 		"editorGroupHeader.tabsBackground": "#332525",
 
 		"editor.selectionBackground": "#443232",
-		
+		"editor.selectionHighlightBackground": "#443232",		
 
 		"sideBar.background": "#241a1a", 
 		"activityBar.background": "#1a1212",
