@@ -1,6 +1,6 @@
 {
 	"name": "dark-chocolate-ice-cream-theme",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"icon": "logo.png",
 	"repository": {
 		"type": "git",
@@ -25,5 +25,10 @@
 				"path": "./themes/DarkChocolateIcecream-color-theme.json"
 			}
 		]
+	},
+	"__metadata": {
+		"id": "26988ba2-e436-426a-b594-7d731ab0cb3a",
+		"publisherId": "701a217d-21c8-4314-9170-be316eb7d066",
+		"publisherDisplayName": "Hamad Al Marri"
 	}
 }

@@ -20,6 +20,8 @@
 		"activityBarBadge.background": "#A7E4F2",
 		"activityBarBadge.foreground": "#3d5358",
 		"statusBar.background": "#332525",
+		"statusBar.noFolderBackground": "#332525",
+		
 		"notifications.background": "#382929",
 		"welcomePage.background": "#4d343622",
 		"terminal.background": "#1a1212",
